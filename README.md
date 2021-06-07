@@ -2,8 +2,6 @@
 
 This repository contains examples scripts that can be run in Aalto University's Triton-cluster.
 
-Something random.
-
 * `gpu/`: GPU usage, compiling CUDA directly.
 * `openmp/`: compiling and running OpenMP* `python/`: Basic Python scripts
 * `openmpi/`: compiling and running MPI
